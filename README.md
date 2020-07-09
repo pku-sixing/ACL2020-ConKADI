@@ -104,7 +104,7 @@ Considering the randomness and the difference between the previous code and the 
 
 - In Figure3, we wrongly use some early names to refer settings. For correct setting names, please refer to Table 5.
 
-## Citation
+# Citation
 
 If you use our code or data, please kindly cite us in your work.
 
