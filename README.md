@@ -5,7 +5,7 @@ Experimental resources for our ACL 2020 Paper "[Diverse and Informative Dialogue
 ## News
 
 - (2020.7.7) Currently, the provided datasets & code contain involve some unused data, we will remove them and provide the corresponding data format description.
-- (2020.7.7) Our code and datasets have been released. We may provide more updates in the future.
+- (2020.11.08) Hi, we released a BETA tool (/tools )to help you generate ConKADI-format data with your own corpus. This is only a beta version, we will verify it again.
 
 ## Preparation
 
